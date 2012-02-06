@@ -1,12 +1,13 @@
 /*
  * Automatically generated C config: don't edit
  * Linux kernel version: 2.6.32.27
- * Mon Feb  6 15:48:14 2012
+ * Mon Feb  6 17:50:33 2012
  */
 #define AUTOCONF_INCLUDED
 #define CONFIG_VIDEO_V4L1_COMPAT 1
 #define CONFIG_ANDROID 1
 #define CONFIG_FRAME_WARN 1024
+#define CONFIG_NO_BATTERY_IC 1
 #define CONFIG_MTD_RKNAND 1
 #define CONFIG_MACH_M722HZ 1
 #define CONFIG_COMPAT_BRK 1
