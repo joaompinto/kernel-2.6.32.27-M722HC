@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/et131x
+END
+et131x_version.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/et131x/et131x_version.h
+END
+et131x_netdev.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/et131x/et131x_netdev.h
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/et131x/Kconfig
+END
+et131x_isr.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/et131x/et131x_isr.c
+END
+et1310_mac.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/et131x/et1310_mac.h
+END
+et1310_phy.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/et131x/et1310_phy.h
+END
+et131x_initpci.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/et131x/et131x_initpci.c
+END
+et131x_isr.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/et131x/et131x_isr.h
+END
+et131x_initpci.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/et131x/et131x_initpci.h
+END
+et1310_pm.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/et131x/et1310_pm.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/et131x/README
+END
+et1310_jagcore.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/et131x/et1310_jagcore.h
+END
+et1310_pm.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/et131x/et1310_pm.h
+END
+et131x_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/et131x/et131x_config.h
+END
+et1310_address_map.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/et131x/et1310_address_map.h
+END
+et1310_eeprom.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/et131x/et1310_eeprom.c
+END
+et1310_rx.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/et131x/et1310_rx.c
+END
+et1310_tx.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/et131x/et1310_tx.c
+END
+et1310_eeprom.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/et131x/et1310_eeprom.h
+END
+et131x_adapter.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/et131x/et131x_adapter.h
+END
+et131x_netdev.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/et131x/et131x_netdev.c
+END
+et1310_rx.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/et131x/et1310_rx.h
+END
+et131x_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/et131x/et131x_defs.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/et131x/Makefile
+END
+et1310_phy.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/et131x/et1310_phy.c
+END
+et1310_mac.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/et131x/et1310_mac.c
+END
+et1310_tx.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/et131x/et1310_tx.h
+END

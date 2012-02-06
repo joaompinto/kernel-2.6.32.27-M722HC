@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/otus
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/otus/Kconfig
+END
+wwrap.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/otus/wwrap.c
+END
+wrap_sec.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/otus/wrap_sec.c
+END
+wrap_ev.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/otus/wrap_ev.c
+END
+usbdrv.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/otus/usbdrv.c
+END
+wrap_buf.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/otus/wrap_buf.c
+END
+oal_dt.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/otus/oal_dt.h
+END
+wrap_mem.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/otus/wrap_mem.c
+END
+ioctl.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/otus/ioctl.c
+END
+usbdrv.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/otus/usbdrv.h
+END
+athr_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/otus/athr_common.h
+END
+apdbg.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/otus/apdbg.c
+END
+wrap_mis.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/otus/wrap_mis.c
+END
+wrap_usb.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/otus/wrap_usb.c
+END
+oal_marc.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/otus/oal_marc.h
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/otus/TODO
+END
+wrap_dbg.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/otus/wrap_dbg.c
+END
+zdcompat.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/otus/zdcompat.h
+END
+wrap_pkt.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/otus/wrap_pkt.c
+END
+zdusb.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/otus/zdusb.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/otus/Makefile
+END
+zdusb.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/otus/zdusb.h
+END

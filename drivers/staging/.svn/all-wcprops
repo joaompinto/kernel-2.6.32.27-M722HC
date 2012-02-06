@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/mid2918/!svn/ver/3816/gingerbread/kernel/trunk/drivers/staging
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/Kconfig
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mid2918/!svn/ver/2487/gingerbread/kernel/trunk/drivers/staging/Makefile
+END
+staging.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/staging.c
+END

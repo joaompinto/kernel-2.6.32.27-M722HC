@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/b3dfg
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/b3dfg/Kconfig
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/b3dfg/TODO
+END
+b3dfg.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/b3dfg/b3dfg.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/b3dfg/Makefile
+END

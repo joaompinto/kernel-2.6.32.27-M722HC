@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rk2818/rk1000_tv
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rk2818/rk1000_tv/Kconfig
+END
+rk1000_tv.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rk2818/rk1000_tv/rk1000_tv.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rk2818/rk1000_tv/Makefile
+END

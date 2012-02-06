@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/comedi
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/comedi/Kconfig
+END
+proc.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/comedi/proc.c
+END
+comedidev.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/comedi/comedidev.h
+END
+comedi.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/comedi/comedi.h
+END
+comedi_compat32.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/comedi/comedi_compat32.c
+END
+comedi_compat32.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/comedi/comedi_compat32.h
+END
+drivers.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/comedi/drivers.c
+END
+pci_ids.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/comedi/pci_ids.h
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/comedi/TODO
+END
+wrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/comedi/wrapper.h
+END
+comedi_ksyms.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/comedi/comedi_ksyms.c
+END
+comedi_fops.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/comedi/comedi_fops.c
+END
+range.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/comedi/range.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/comedi/Makefile
+END
+comedi_fops.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/comedi/comedi_fops.h
+END
+comedilib.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/comedi/comedilib.h
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/iio/accel
+END
+sca3000.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/iio/accel/sca3000.h
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/iio/accel/Kconfig
+END
+sca3000_core.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/iio/accel/sca3000_core.c
+END
+kxsd9.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/iio/accel/kxsd9.c
+END
+lis3l02dq.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/iio/accel/lis3l02dq.h
+END
+lis3l02dq_core.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/iio/accel/lis3l02dq_core.c
+END
+sca3000_ring.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/iio/accel/sca3000_ring.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/iio/accel/Makefile
+END
+accel.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/iio/accel/accel.h
+END
+lis3l02dq_ring.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/iio/accel/lis3l02dq_ring.c
+END

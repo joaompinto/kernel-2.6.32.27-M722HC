@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/line6
+END
+variax.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/line6/variax.h
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/line6/Kconfig
+END
+usbdefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/line6/usbdefs.h
+END
+driver.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/line6/driver.h
+END
+audio.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/line6/audio.c
+END
+revision.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/line6/revision.h
+END
+capture.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/line6/capture.c
+END
+audio.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/line6/audio.h
+END
+capture.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/line6/capture.h
+END
+toneport.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/line6/toneport.c
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/line6/config.h
+END
+dumprequest.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/line6/dumprequest.c
+END
+toneport.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/line6/toneport.h
+END
+pcm.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/line6/pcm.c
+END
+midibuf.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/line6/midibuf.c
+END
+control.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/line6/control.c
+END
+midi.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/line6/midi.c
+END
+pod.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/line6/pod.c
+END
+dumprequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/line6/dumprequest.h
+END
+midibuf.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/line6/midibuf.h
+END
+pcm.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/line6/pcm.h
+END
+control.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/line6/control.h
+END
+playback.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/line6/playback.c
+END
+midi.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/line6/midi.h
+END
+pod.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/line6/pod.h
+END
+variax.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/line6/variax.c
+END
+driver.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/line6/driver.c
+END
+playback.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/line6/playback.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/line6/Makefile
+END

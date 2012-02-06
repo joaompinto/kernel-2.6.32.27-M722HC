@@ -1,0 +1,323 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/comedi/drivers/addi-data
+END
+hwdrv_APCI1710.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/comedi/drivers/addi-data/hwdrv_APCI1710.c
+END
+addi_amcc_s5933.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/comedi/drivers/addi-data/addi_amcc_s5933.h
+END
+hwdrv_apci2200.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/comedi/drivers/addi-data/hwdrv_apci2200.h
+END
+hwdrv_apci1032.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/comedi/drivers/addi-data/hwdrv_apci1032.h
+END
+APCI1710_Ssi.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/comedi/drivers/addi-data/APCI1710_Ssi.c
+END
+hwdrv_apci1516.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/comedi/drivers/addi-data/hwdrv_apci1516.c
+END
+hwdrv_APCI1710.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/comedi/drivers/addi-data/hwdrv_APCI1710.h
+END
+APCI1710_Pwm.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/comedi/drivers/addi-data/APCI1710_Pwm.c
+END
+APCI1710_Ssi.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/comedi/drivers/addi-data/APCI1710_Ssi.h
+END
+hwdrv_apci1516.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/comedi/drivers/addi-data/hwdrv_apci1516.h
+END
+addi_common.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/comedi/drivers/addi-data/addi_common.c
+END
+APCI1710_Tor.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/comedi/drivers/addi-data/APCI1710_Tor.c
+END
+APCI1710_Pwm.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/comedi/drivers/addi-data/APCI1710_Pwm.h
+END
+hwdrv_apci035.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/comedi/drivers/addi-data/hwdrv_apci035.c
+END
+addi_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/comedi/drivers/addi-data/addi_common.h
+END
+APCI1710_Tor.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/comedi/drivers/addi-data/APCI1710_Tor.h
+END
+hwdrv_apci035.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/comedi/drivers/addi-data/hwdrv_apci035.h
+END
+APCI1710_INCCPT.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/comedi/drivers/addi-data/APCI1710_INCCPT.c
+END
+APCI1710_INCCPT.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/comedi/drivers/addi-data/APCI1710_INCCPT.h
+END
+amcc_s5933_58.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/comedi/drivers/addi-data/amcc_s5933_58.h
+END
+hwdrv_apci3200.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/comedi/drivers/addi-data/hwdrv_apci3200.c
+END
+hwdrv_apci3120.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/comedi/drivers/addi-data/hwdrv_apci3120.c
+END
+hwdrv_apci1500.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/comedi/drivers/addi-data/hwdrv_apci1500.c
+END
+hwdrv_apci2032.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/comedi/drivers/addi-data/hwdrv_apci2032.c
+END
+APCI1710_Chrono.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/comedi/drivers/addi-data/APCI1710_Chrono.c
+END
+hwdrv_apci3501.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/comedi/drivers/addi-data/hwdrv_apci3501.c
+END
+hwdrv_apci2016.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/comedi/drivers/addi-data/hwdrv_apci2016.c
+END
+APCI1710_Dig_io.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/comedi/drivers/addi-data/APCI1710_Dig_io.c
+END
+APCI1710_82x54.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/comedi/drivers/addi-data/APCI1710_82x54.c
+END
+hwdrv_apci3200.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/comedi/drivers/addi-data/hwdrv_apci3200.h
+END
+hwdrv_apci1500.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/comedi/drivers/addi-data/hwdrv_apci1500.h
+END
+APCI1710_Inp_cpt.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/comedi/drivers/addi-data/APCI1710_Inp_cpt.c
+END
+hwdrv_apci3120.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/comedi/drivers/addi-data/hwdrv_apci3120.h
+END
+APCI1710_Chrono.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/comedi/drivers/addi-data/APCI1710_Chrono.h
+END
+hwdrv_apci2032.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/comedi/drivers/addi-data/hwdrv_apci2032.h
+END
+APCI1710_82x54.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/comedi/drivers/addi-data/APCI1710_82x54.h
+END
+APCI1710_Dig_io.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/comedi/drivers/addi-data/APCI1710_Dig_io.h
+END
+hwdrv_apci2016.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/comedi/drivers/addi-data/hwdrv_apci2016.h
+END
+hwdrv_apci3501.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/comedi/drivers/addi-data/hwdrv_apci3501.h
+END
+APCI1710_Inp_cpt.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/comedi/drivers/addi-data/APCI1710_Inp_cpt.h
+END
+hwdrv_apci1564.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/comedi/drivers/addi-data/hwdrv_apci1564.c
+END
+addi_eeprom.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/comedi/drivers/addi-data/addi_eeprom.c
+END
+APCI1710_Ttl.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/comedi/drivers/addi-data/APCI1710_Ttl.c
+END
+hwdrv_apci1564.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/comedi/drivers/addi-data/hwdrv_apci1564.h
+END
+APCI1710_Ttl.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/comedi/drivers/addi-data/APCI1710_Ttl.h
+END
+hwdrv_apci16xx.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/comedi/drivers/addi-data/hwdrv_apci16xx.c
+END
+hwdrv_apci3xxx.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/comedi/drivers/addi-data/hwdrv_apci3xxx.c
+END
+hwdrv_apci16xx.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/comedi/drivers/addi-data/hwdrv_apci16xx.h
+END
+addi_amcc_S5920.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/comedi/drivers/addi-data/addi_amcc_S5920.c
+END
+hwdrv_apci3xxx.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/comedi/drivers/addi-data/hwdrv_apci3xxx.h
+END
+hwdrv_apci2200.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/comedi/drivers/addi-data/hwdrv_apci2200.c
+END
+addi_amcc_S5920.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/comedi/drivers/addi-data/addi_amcc_S5920.h
+END
+hwdrv_apci1032.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/comedi/drivers/addi-data/hwdrv_apci1032.c
+END

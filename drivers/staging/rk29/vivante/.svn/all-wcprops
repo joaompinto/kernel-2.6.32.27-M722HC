@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mid2918/!svn/ver/3816/gingerbread/kernel/trunk/drivers/staging/rk29/vivante
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/mid2918/!svn/ver/1670/gingerbread/kernel/trunk/drivers/staging/rk29/vivante/Kconfig
+END
+tpu.uu
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mid2918/!svn/ver/2801/gingerbread/kernel/trunk/drivers/staging/rk29/vivante/tpu.uu
+END
+galcore.uu
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mid2918/!svn/ver/3816/gingerbread/kernel/trunk/drivers/staging/rk29/vivante/galcore.uu
+END
+config
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mid2918/!svn/ver/1670/gingerbread/kernel/trunk/drivers/staging/rk29/vivante/config
+END
+Kbuild_
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/mid2918/!svn/ver/1670/gingerbread/kernel/trunk/drivers/staging/rk29/vivante/Kbuild_
+END
+built-in.uu
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mid2918/!svn/ver/3816/gingerbread/kernel/trunk/drivers/staging/rk29/vivante/built-in.uu
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/mid2918/!svn/ver/3816/gingerbread/kernel/trunk/drivers/staging/rk29/vivante/Makefile
+END

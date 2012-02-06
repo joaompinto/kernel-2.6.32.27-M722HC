@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/phison
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/phison/Kconfig
+END
+phison.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/phison/phison.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/phison/Makefile
+END

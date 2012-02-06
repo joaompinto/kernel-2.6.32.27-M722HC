@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/serqt_usb2
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/serqt_usb2/Kconfig
+END
+serqt_usb2.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/serqt_usb2/serqt_usb2.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/serqt_usb2/Makefile
+END

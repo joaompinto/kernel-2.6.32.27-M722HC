@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/mid2918/!svn/ver/3541/gingerbread/kernel/trunk/drivers/staging/rk29_archos/vivante/hal/os/linux/kernel
+END
+gc_hal_kernel_driver.uu
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/mid2918/!svn/ver/3541/gingerbread/kernel/trunk/drivers/staging/rk29_archos/vivante/hal/os/linux/kernel/gc_hal_kernel_driver.uu
+END
+gc_hal_kernel_device.uu
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/mid2918/!svn/ver/3541/gingerbread/kernel/trunk/drivers/staging/rk29_archos/vivante/hal/os/linux/kernel/gc_hal_kernel_device.uu
+END
+gc_hal_kernel_linux.uu
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/mid2918/!svn/ver/2487/gingerbread/kernel/trunk/drivers/staging/rk29_archos/vivante/hal/os/linux/kernel/gc_hal_kernel_linux.uu
+END
+gc_hal_kernel_os.uu
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/mid2918/!svn/ver/3541/gingerbread/kernel/trunk/drivers/staging/rk29_archos/vivante/hal/os/linux/kernel/gc_hal_kernel_os.uu
+END
+gc_hal_kernel_debug.uu
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/mid2918/!svn/ver/2487/gingerbread/kernel/trunk/drivers/staging/rk29_archos/vivante/hal/os/linux/kernel/gc_hal_kernel_debug.uu
+END

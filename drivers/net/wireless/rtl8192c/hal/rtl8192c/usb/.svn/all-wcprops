@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/mid2918/!svn/ver/4483/gingerbread/kernel/trunk/drivers/net/wireless/rtl8192c_v322/hal/rtl8192c/usb
+END
+rtl8192cu_xmit.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/mid2918/!svn/ver/4483/gingerbread/kernel/trunk/drivers/net/wireless/rtl8192c_v322/hal/rtl8192c/usb/rtl8192cu_xmit.c
+END
+rtl8192cu_led.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/mid2918/!svn/ver/4483/gingerbread/kernel/trunk/drivers/net/wireless/rtl8192c_v322/hal/rtl8192c/usb/rtl8192cu_led.c
+END
+usb_halinit.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/mid2918/!svn/ver/4483/gingerbread/kernel/trunk/drivers/net/wireless/rtl8192c_v322/hal/rtl8192c/usb/usb_halinit.c
+END
+usb_ops_ce.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/mid2918/!svn/ver/4483/gingerbread/kernel/trunk/drivers/net/wireless/rtl8192c_v322/hal/rtl8192c/usb/usb_ops_ce.c
+END
+usb_ops_xp.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/mid2918/!svn/ver/4483/gingerbread/kernel/trunk/drivers/net/wireless/rtl8192c_v322/hal/rtl8192c/usb/usb_ops_xp.c
+END
+usb_ops_linux.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/mid2918/!svn/ver/4483/gingerbread/kernel/trunk/drivers/net/wireless/rtl8192c_v322/hal/rtl8192c/usb/usb_ops_linux.c
+END
+Hal8192CUHWImg.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/mid2918/!svn/ver/4483/gingerbread/kernel/trunk/drivers/net/wireless/rtl8192c_v322/hal/rtl8192c/usb/Hal8192CUHWImg.c
+END
+rtl8192cu_recv.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/mid2918/!svn/ver/4483/gingerbread/kernel/trunk/drivers/net/wireless/rtl8192c_v322/hal/rtl8192c/usb/rtl8192cu_recv.c
+END

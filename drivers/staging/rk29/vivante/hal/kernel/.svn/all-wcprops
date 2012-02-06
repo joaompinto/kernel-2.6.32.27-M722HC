@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mid2918/!svn/ver/3816/gingerbread/kernel/trunk/drivers/staging/rk29/vivante/hal/kernel
+END
+gc_hal_kernel_heap.uu
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/mid2918/!svn/ver/3816/gingerbread/kernel/trunk/drivers/staging/rk29/vivante/hal/kernel/gc_hal_kernel_heap.uu
+END
+gc_hal_kernel_command.uu
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/mid2918/!svn/ver/3816/gingerbread/kernel/trunk/drivers/staging/rk29/vivante/hal/kernel/gc_hal_kernel_command.uu
+END
+gc_hal_kernel_mmu.uu
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/mid2918/!svn/ver/1670/gingerbread/kernel/trunk/drivers/staging/rk29/vivante/hal/kernel/gc_hal_kernel_mmu.uu
+END
+gc_hal_kernel_video_memory.uu
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/mid2918/!svn/ver/3816/gingerbread/kernel/trunk/drivers/staging/rk29/vivante/hal/kernel/gc_hal_kernel_video_memory.uu
+END
+gc_hal_kernel.uu
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/mid2918/!svn/ver/3816/gingerbread/kernel/trunk/drivers/staging/rk29/vivante/hal/kernel/gc_hal_kernel.uu
+END
+gc_hal_kernel_event.uu
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/mid2918/!svn/ver/3816/gingerbread/kernel/trunk/drivers/staging/rk29/vivante/hal/kernel/gc_hal_kernel_event.uu
+END
+makefile.linux
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/mid2918/!svn/ver/1670/gingerbread/kernel/trunk/drivers/staging/rk29/vivante/hal/kernel/makefile.linux
+END

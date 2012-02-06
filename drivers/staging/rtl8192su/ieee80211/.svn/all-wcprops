@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rtl8192su/ieee80211
+END
+ieee80211_crypt_wep.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rtl8192su/ieee80211/ieee80211_crypt_wep.c
+END
+ieee80211_r8192s.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rtl8192su/ieee80211/ieee80211_r8192s.h
+END
+dot11d.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rtl8192su/ieee80211/dot11d.h
+END
+rtl819x_BA.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rtl8192su/ieee80211/rtl819x_BA.h
+END
+rtl819x_TS.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rtl8192su/ieee80211/rtl819x_TS.h
+END
+ieee80211.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rtl8192su/ieee80211/ieee80211.h
+END
+ieee80211_module.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rtl8192su/ieee80211/ieee80211_module.c
+END
+rtl819x_HTProc.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rtl8192su/ieee80211/rtl819x_HTProc.c
+END
+ieee80211_crypt_tkip.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rtl8192su/ieee80211/ieee80211_crypt_tkip.c
+END
+readme
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rtl8192su/ieee80211/readme
+END
+ieee80211_rx.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rtl8192su/ieee80211/ieee80211_rx.c
+END
+ieee80211_tx.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rtl8192su/ieee80211/ieee80211_tx.c
+END
+ieee80211_softmac.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rtl8192su/ieee80211/ieee80211_softmac.c
+END
+rtl819x_BAProc.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rtl8192su/ieee80211/rtl819x_BAProc.c
+END
+ieee80211_wx.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rtl8192su/ieee80211/ieee80211_wx.c
+END
+rtl819x_Qos.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rtl8192su/ieee80211/rtl819x_Qos.h
+END
+ieee80211_crypt.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rtl8192su/ieee80211/ieee80211_crypt.c
+END
+rtl819x_TSProc.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rtl8192su/ieee80211/rtl819x_TSProc.c
+END
+ieee80211_crypt_ccmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rtl8192su/ieee80211/ieee80211_crypt_ccmp.c
+END
+ieee80211_crypt.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rtl8192su/ieee80211/ieee80211_crypt.h
+END
+rtl819x_HT.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rtl8192su/ieee80211/rtl819x_HT.h
+END
+dot11d.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rtl8192su/ieee80211/dot11d.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rtl8192su/ieee80211/Makefile
+END
+ieee80211_softmac_wx.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rtl8192su/ieee80211/ieee80211_softmac_wx.c
+END

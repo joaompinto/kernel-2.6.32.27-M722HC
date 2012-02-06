@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/go7007
+END
+go7007-i2c.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/go7007/go7007-i2c.c
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/go7007/Kconfig
+END
+s2250-board.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/go7007/s2250-board.c
+END
+saa7134-go7007.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/go7007/saa7134-go7007.c
+END
+wis-ov7640.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/go7007/wis-ov7640.c
+END
+snd-go7007.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/go7007/snd-go7007.c
+END
+go7007-priv.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/go7007/go7007-priv.h
+END
+wis-tw2804.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/go7007/wis-tw2804.c
+END
+go7007-v4l2.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/go7007/go7007-v4l2.c
+END
+go7007-usb.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/go7007/go7007-usb.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/go7007/README
+END
+go7007-driver.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/go7007/go7007-driver.c
+END
+wis-tw9903.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/go7007/wis-tw9903.c
+END
+s2250-loader.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/go7007/s2250-loader.c
+END
+wis-saa7113.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/go7007/wis-saa7113.c
+END
+go7007.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/go7007/go7007.txt
+END
+wis-i2c.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/go7007/wis-i2c.h
+END
+wis-saa7115.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/go7007/wis-saa7115.c
+END
+wis-sony-tuner.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/go7007/wis-sony-tuner.c
+END
+wis-uda1342.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/go7007/wis-uda1342.c
+END
+s2250-loader.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/go7007/s2250-loader.h
+END
+go7007.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/go7007/go7007.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/go7007/Makefile
+END
+go7007-fw.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/go7007/go7007-fw.c
+END

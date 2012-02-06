@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/mid2918/!svn/ver/4483/gingerbread/kernel/trunk/drivers/net/wireless/rtl8192c_v322/include/byteorder
+END
+little_endian.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/mid2918/!svn/ver/4483/gingerbread/kernel/trunk/drivers/net/wireless/rtl8192c_v322/include/byteorder/little_endian.h
+END
+generic.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/mid2918/!svn/ver/4483/gingerbread/kernel/trunk/drivers/net/wireless/rtl8192c_v322/include/byteorder/generic.h
+END
+swab.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/mid2918/!svn/ver/4483/gingerbread/kernel/trunk/drivers/net/wireless/rtl8192c_v322/include/byteorder/swab.h
+END
+swabb.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/mid2918/!svn/ver/4483/gingerbread/kernel/trunk/drivers/net/wireless/rtl8192c_v322/include/byteorder/swabb.h
+END
+big_endian.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/mid2918/!svn/ver/4483/gingerbread/kernel/trunk/drivers/net/wireless/rtl8192c_v322/include/byteorder/big_endian.h
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/mid2918/!svn/ver/4483/gingerbread/kernel/trunk/drivers/net/wireless/rtl8192c_v322/os_dep/linux
+END
+recv_linux.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/mid2918/!svn/ver/4483/gingerbread/kernel/trunk/drivers/net/wireless/rtl8192c_v322/os_dep/linux/recv_linux.c
+END
+wifi_power.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/mid2918/!svn/ver/4483/gingerbread/kernel/trunk/drivers/net/wireless/rtl8192c_v322/os_dep/linux/wifi_power.h
+END
+ioctl_linux.uu
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/mid2918/!svn/ver/4483/gingerbread/kernel/trunk/drivers/net/wireless/rtl8192c_v322/os_dep/linux/ioctl_linux.uu
+END
+xmit_linux.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/mid2918/!svn/ver/4483/gingerbread/kernel/trunk/drivers/net/wireless/rtl8192c_v322/os_dep/linux/xmit_linux.c
+END
+wifi_power_usb.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/mid2918/!svn/ver/4483/gingerbread/kernel/trunk/drivers/net/wireless/rtl8192c_v322/os_dep/linux/wifi_power_usb.c
+END
+os_intfs.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/mid2918/!svn/ver/4483/gingerbread/kernel/trunk/drivers/net/wireless/rtl8192c_v322/os_dep/linux/os_intfs.c
+END
+wifi_version.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/mid2918/!svn/ver/4483/gingerbread/kernel/trunk/drivers/net/wireless/rtl8192c_v322/os_dep/linux/wifi_version.h
+END
+mlme_linux.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/mid2918/!svn/ver/4483/gingerbread/kernel/trunk/drivers/net/wireless/rtl8192c_v322/os_dep/linux/mlme_linux.c
+END
+usb_intf.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/mid2918/!svn/ver/4483/gingerbread/kernel/trunk/drivers/net/wireless/rtl8192c_v322/os_dep/linux/usb_intf.c
+END
+wifi_power.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/mid2918/!svn/ver/4483/gingerbread/kernel/trunk/drivers/net/wireless/rtl8192c_v322/os_dep/linux/wifi_power.c
+END
+wifi_power_ops.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/mid2918/!svn/ver/4483/gingerbread/kernel/trunk/drivers/net/wireless/rtl8192c_v322/os_dep/linux/wifi_power_ops.c
+END

@@ -1,0 +1,479 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vt6655
+END
+tcrc.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vt6655/tcrc.h
+END
+tether.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vt6655/tether.h
+END
+country.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vt6655/country.h
+END
+wpa2.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vt6655/wpa2.c
+END
+card.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vt6655/card.c
+END
+ioctl.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vt6655/ioctl.c
+END
+wmgr.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vt6655/wmgr.c
+END
+wpa2.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vt6655/wpa2.h
+END
+card.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vt6655/card.h
+END
+ioctl.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vt6655/ioctl.h
+END
+wmgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vt6655/wmgr.h
+END
+iwctl.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vt6655/iwctl.c
+END
+device_cfg.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vt6655/device_cfg.h
+END
+iwctl.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vt6655/iwctl.h
+END
+wpactl.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vt6655/wpactl.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vt6655/Makefile
+END
+baseband.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vt6655/baseband.c
+END
+wpactl.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vt6655/wpactl.h
+END
+mac.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vt6655/mac.c
+END
+michael.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vt6655/michael.c
+END
+kcompat.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vt6655/kcompat.h
+END
+baseband.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vt6655/baseband.h
+END
+device.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vt6655/device.h
+END
+mac.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vt6655/mac.h
+END
+michael.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vt6655/michael.h
+END
+80211hdr.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vt6655/80211hdr.h
+END
+wroute.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vt6655/wroute.c
+END
+key.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vt6655/key.c
+END
+tmacro.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vt6655/tmacro.h
+END
+wcmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vt6655/wcmd.c
+END
+wroute.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vt6655/wroute.h
+END
+power.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vt6655/power.c
+END
+bssdb.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vt6655/bssdb.c
+END
+key.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vt6655/key.h
+END
+wcmd.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vt6655/wcmd.h
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vt6655/Kconfig
+END
+power.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vt6655/power.h
+END
+bssdb.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vt6655/bssdb.h
+END
+dpc.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vt6655/dpc.c
+END
+aes_ccmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vt6655/aes_ccmp.c
+END
+ttype.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vt6655/ttype.h
+END
+dpc.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vt6655/dpc.h
+END
+aes_ccmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vt6655/aes_ccmp.h
+END
+srom.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vt6655/srom.c
+END
+80211mgr.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vt6655/80211mgr.c
+END
+IEEE11h.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vt6655/IEEE11h.c
+END
+desc.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vt6655/desc.h
+END
+iowpa.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vt6655/iowpa.h
+END
+datarate.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vt6655/datarate.c
+END
+srom.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vt6655/srom.h
+END
+80211mgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vt6655/80211mgr.h
+END
+IEEE11h.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vt6655/IEEE11h.h
+END
+wpa.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vt6655/wpa.c
+END
+datarate.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vt6655/datarate.h
+END
+wpa.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vt6655/wpa.h
+END
+upc.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vt6655/upc.h
+END
+hostap.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vt6655/hostap.c
+END
+test
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vt6655/test
+END
+iocmd.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vt6655/iocmd.h
+END
+hostap.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vt6655/hostap.h
+END
+device_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vt6655/device_main.c
+END
+rxtx.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vt6655/rxtx.c
+END
+rf.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vt6655/rf.c
+END
+tkip.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vt6655/tkip.c
+END
+mib.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vt6655/mib.c
+END
+wctl.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vt6655/wctl.c
+END
+rxtx.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vt6655/rxtx.h
+END
+tkip.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vt6655/tkip.h
+END
+rf.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vt6655/rf.h
+END
+mib.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vt6655/mib.h
+END
+wctl.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vt6655/wctl.h
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vt6655/TODO
+END
+vntconfiguration.dat
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vt6655/vntconfiguration.dat
+END
+vntwifi.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vt6655/vntwifi.c
+END
+rc4.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vt6655/rc4.c
+END
+tether.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vt6655/tether.c
+END
+tcrc.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vt6655/tcrc.c
+END
+vntwifi.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vt6655/vntwifi.h
+END
+rc4.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vt6655/rc4.h
+END

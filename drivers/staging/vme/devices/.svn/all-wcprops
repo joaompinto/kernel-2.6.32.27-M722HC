@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vme/devices
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vme/devices/Kconfig
+END
+vme_user.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vme/devices/vme_user.c
+END
+vme_user.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vme/devices/vme_user.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/vme/devices/Makefile
+END

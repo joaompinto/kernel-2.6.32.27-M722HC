@@ -1,0 +1,133 @@
+if ARCH_RK29
+
+choice
+	prompt "Select Board Type"
+	depends on ARCH_RK29
+	default MACH_RK29SDK
+
+config MACH_RK29SDK
+	depends on ARCH_RK29
+	bool "ROCKCHIP Board Rk29 For Sdk"
+        help
+	  Support for the ROCKCHIP Board For Rk29 Sdk.
+
+config MACH_RK29SDK_DDR3
+        depends on ARCH_RK29
+        bool "ROCKCHIP Board Rk29 For DDR3 SDK"
+        help
+          Support for the ROCKCHIP Board For Rk29 Sdk.
+
+config MACH_M732
+	depends on ARCH_RK29
+	bool "ROCKCHIP Board Rk29 For M732"
+        help
+	  Support for the ROCKCHIP Board For M732.
+
+
+config MACH_M803
+	depends on ARCH_RK29
+	bool "ROCKCHIP Board Rk29 For M803"
+        help
+	  Support for the ROCKCHIP Board For M803.
+
+
+config MACH_RK29WINACCORD
+	depends on ARCH_RK29
+	bool "ROCKCHIP Board Rk29 For Winaccord"
+        help
+	  Support for the ROCKCHIP Board For Rk29 Winaccord.
+
+config MACH_RK29FIH
+	depends on ARCH_RK29
+	bool "ROCKCHIP Board Rk29 For FIH"
+        help
+	  Support for the ROCKCHIP Board For Rk29 FIH.
+
+
+config MACH_RK29_AIGO
+	depends on ARCH_RK29
+	bool "ROCKCHIP Board Rk29 For Aigo"
+        help
+	  Support for the ROCKCHIP Board For Rk29 Aigo.
+	  
+config MACH_RK29_MALATA
+	depends on ARCH_RK29
+	bool "ROCKCHIP Board Rk29 For Malata"
+        help
+	  Support for the ROCKCHIP Board For Rk29 Malata.
+
+config MACH_RK29_PHONESDK
+	depends on ARCH_RK29
+	bool "ROCKCHIP Board Rk29 For Phone Sdk"
+        help
+	  Support for the ROCKCHIP Board For Rk29 Phone Sdk.
+
+config MACH_RK29_A22
+	depends on ARCH_RK29
+	bool "ROCKCHIP Board Rk29 For A22"
+        help
+	  Support for the ROCKCHIP Board For A22.
+
+config MACH_M900
+	depends on ARCH_RK29
+	bool "ROCKCHIP Board Rk29 For M900"
+        help
+	  Support for the ROCKCHIP Board For M900.
+config MACH_M912
+	depends on ARCH_RK29
+	bool "ROCKCHIP Board Rk29 For M912"
+        help
+	  Support for the ROCKCHIP Board For M912.
+config MACH_M803
+	depends on ARCH_RK29
+	bool "ROCKCHIP Board Rk29 For M803"
+        help
+	  Support for the ROCKCHIP Board For M803.
+config MACH_M908
+	depends on ARCH_RK29
+	bool "ROCKCHIP Board Rk29 For M908"
+        help
+	  Support for the ROCKCHIP Board For M908.
+config MACH_M722HZ
+	depends on ARCH_RK29
+	bool "ROCKCHIP Board Rk29 For M722"
+        help
+	  Support for the ROCKCHIP Board For M722hz.
+config MACH_M722
+	depends on ARCH_RK29
+	bool "ROCKCHIP Board Rk29 For M722"
+        help
+	  Support for the ROCKCHIP Board For M722.
+
+
+
+
+endchoice
+
+config RK29_MEM_SIZE_M
+	int "Memory size (in MiB)"
+	default 512
+
+config WIFI_CONTROL_FUNC
+        bool "Enable WiFi control function abstraction"
+        help
+          Enables Power/Reset/Carddetect function abstraction
+
+menu "RK29 VPU (Video Processing Unit) support"
+
+config RK29_VPU
+	tristate "Support for RK29 VPU (Video Processing Unit)"
+	depends on ARCH_RK29
+	default y
+
+config RK29_VPU_DEBUG
+	bool "RK29 VPU debugging"
+        depends on RK29_VPU != n
+	default n
+        help
+          This is an option for the developers; most people should
+          say N here.  This enables RK29 VPU driver debugging.
+
+endmenu
+
+endif

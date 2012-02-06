@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rk2818/rk1000_control
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rk2818/rk1000_control/Kconfig
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rk2818/rk1000_control/Makefile
+END

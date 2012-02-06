@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/winbond
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/winbond/Kconfig
+END
+wblinux_f.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/winbond/wblinux_f.h
+END
+sysdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/winbond/sysdef.h
+END
+localpara.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/winbond/localpara.h
+END
+wb35reg_s.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/winbond/wb35reg_s.h
+END
+phy_calibration.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/winbond/phy_calibration.c
+END
+mac_structures.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/winbond/mac_structures.h
+END
+wbusb_s.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/winbond/wbusb_s.h
+END
+mds_s.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/winbond/mds_s.h
+END
+phy_calibration.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/winbond/phy_calibration.h
+END
+wb35reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/winbond/wb35reg.c
+END
+mlmetxrx.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/winbond/mlmetxrx.c
+END
+wbusb.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/winbond/wbusb.c
+END
+mds.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/winbond/mds.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/winbond/Makefile
+END
+core.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/winbond/core.h
+END
+mto.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/winbond/mto.c
+END
+mto.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/winbond/mto.h
+END
+wb35rx_f.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/winbond/wb35rx_f.h
+END
+wb35tx_f.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/winbond/wb35tx_f.h
+END
+wbhal_f.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/winbond/wbhal_f.h
+END
+scan_s.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/winbond/scan_s.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/winbond/README
+END
+reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/winbond/reg.c
+END
+mlme_s.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/winbond/mlme_s.h
+END
+wb35rx_s.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/winbond/wb35rx_s.h
+END
+sme_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/winbond/sme_api.h
+END
+wb35tx_s.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/winbond/wb35tx_s.h
+END
+wbhal_s.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/winbond/wbhal_s.h
+END
+wb35reg_f.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/winbond/wb35reg_f.h
+END
+mlmetxrx_f.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/winbond/mlmetxrx_f.h
+END
+wb35rx.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/winbond/wb35rx.c
+END
+wb35tx.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/winbond/wb35tx.c
+END
+mds_f.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/winbond/mds_f.h
+END

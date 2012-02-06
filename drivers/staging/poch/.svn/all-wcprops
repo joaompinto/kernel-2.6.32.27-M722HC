@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/poch
+END
+poch.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/poch/poch.h
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/poch/Kconfig
+END
+poch.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/poch/poch.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/poch/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/poch/README
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/iio/magnetometer
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/iio/magnetometer/Kconfig
+END
+magnet.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/iio/magnetometer/magnet.h
+END
+ak8973.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/iio/magnetometer/ak8973.c
+END
+ak8975.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/iio/magnetometer/ak8975.c
+END
+ak8973.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/iio/magnetometer/ak8973.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/iio/magnetometer/Makefile
+END
+ak8975.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/iio/magnetometer/ak8975.h
+END

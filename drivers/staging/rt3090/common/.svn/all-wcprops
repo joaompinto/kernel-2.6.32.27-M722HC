@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rt3090/common
+END
+cmm_tkip.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rt3090/common/cmm_tkip.c
+END
+cmm_aes.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rt3090/common/cmm_aes.c
+END
+cmm_data.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rt3090/common/cmm_data.c
+END
+crypt_md5.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rt3090/common/crypt_md5.c
+END
+cmm_sync.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rt3090/common/cmm_sync.c
+END
+igmp_snoop.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rt3090/common/igmp_snoop.c
+END
+cmm_asic.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rt3090/common/cmm_asic.c
+END
+dfs.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rt3090/common/dfs.c
+END
+action.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rt3090/common/action.c
+END
+crypt_sha2.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rt3090/common/crypt_sha2.c
+END
+netif_block.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rt3090/common/netif_block.c
+END
+ba_action.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rt3090/common/ba_action.c
+END
+rtmp_timer.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rt3090/common/rtmp_timer.c
+END
+rtmp_mcu.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rt3090/common/rtmp_mcu.c
+END
+eeprom.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rt3090/common/eeprom.c
+END
+cmm_mac_pci.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rt3090/common/cmm_mac_pci.c
+END
+cmm_wep.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rt3090/common/cmm_wep.c
+END
+crypt_aes.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rt3090/common/crypt_aes.c
+END
+crypt_hmac.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rt3090/common/crypt_hmac.c
+END
+cmm_cfg.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rt3090/common/cmm_cfg.c
+END
+cmm_profile.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rt3090/common/cmm_profile.c
+END
+cmm_data_pci.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rt3090/common/cmm_data_pci.c
+END
+crypt_biginteger.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rt3090/common/crypt_biginteger.c
+END
+spectrum.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rt3090/common/spectrum.c
+END
+cmm_sanity.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rt3090/common/cmm_sanity.c
+END
+rtmp_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rt3090/common/rtmp_init.c
+END
+crypt_dh.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rt3090/common/crypt_dh.c
+END
+rt_rf.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rt3090/common/rt_rf.c
+END
+rt_channel.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rt3090/common/rt_channel.c
+END
+ee_efuse.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rt3090/common/ee_efuse.c
+END
+cmm_wpa.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rt3090/common/cmm_wpa.c
+END
+mlme_ex.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rt3090/common/mlme_ex.c
+END
+ee_prom.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rt3090/common/ee_prom.c
+END
+cmm_info.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rt3090/common/cmm_info.c
+END
+mlme.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rt3090/common/mlme.c
+END

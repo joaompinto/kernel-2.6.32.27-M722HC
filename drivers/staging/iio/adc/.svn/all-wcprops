@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/iio/adc
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/iio/adc/Kconfig
+END
+max1363_ring.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/iio/adc/max1363_ring.c
+END
+max1363.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/iio/adc/max1363.h
+END
+max1363_core.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/iio/adc/max1363_core.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/iio/adc/Makefile
+END
+adc.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/iio/adc/adc.h
+END

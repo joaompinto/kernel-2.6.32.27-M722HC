@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/altpciechdma
+END
+altpciechdma.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/altpciechdma/altpciechdma.c
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/altpciechdma/Kconfig
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/altpciechdma/TODO
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/altpciechdma/Makefile
+END

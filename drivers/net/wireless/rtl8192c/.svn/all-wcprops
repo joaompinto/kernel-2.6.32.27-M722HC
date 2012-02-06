@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mid2918/!svn/ver/4485/gingerbread/kernel/trunk/drivers/net/wireless/rtl8192c_v322
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/mid2918/!svn/ver/4485/gingerbread/kernel/trunk/drivers/net/wireless/rtl8192c_v322/Kconfig
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/mid2918/!svn/ver/4483/gingerbread/kernel/trunk/drivers/net/wireless/rtl8192c_v322/Makefile
+END

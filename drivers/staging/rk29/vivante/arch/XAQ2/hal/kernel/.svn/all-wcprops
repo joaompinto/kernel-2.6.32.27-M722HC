@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/mid2918/!svn/ver/3816/gingerbread/kernel/trunk/drivers/staging/rk29/vivante/arch/XAQ2/hal/kernel
+END
+gc_hal_kernel_hardware.uu
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/mid2918/!svn/ver/3816/gingerbread/kernel/trunk/drivers/staging/rk29/vivante/arch/XAQ2/hal/kernel/gc_hal_kernel_hardware.uu
+END
+makefile.linux
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/mid2918/!svn/ver/1670/gingerbread/kernel/trunk/drivers/staging/rk29/vivante/arch/XAQ2/hal/kernel/makefile.linux
+END

@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/dream/camera
+END
+mt9d112_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/dream/camera/mt9d112_reg.c
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/dream/camera/Kconfig
+END
+msm_vfe8x_proc.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/dream/camera/msm_vfe8x_proc.c
+END
+mt9d112.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/dream/camera/mt9d112.c
+END
+msm_io7x.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/dream/camera/msm_io7x.c
+END
+msm_io8x.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/dream/camera/msm_io8x.c
+END
+msm_v4l2.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/dream/camera/msm_v4l2.c
+END
+msm_camera.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/dream/camera/msm_camera.c
+END
+msm_vfe8x_proc.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/dream/camera/msm_vfe8x_proc.h
+END
+mt9d112.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/dream/camera/mt9d112.h
+END
+mt9p012_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/dream/camera/mt9p012_reg.c
+END
+s5k3e2fx.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/dream/camera/s5k3e2fx.c
+END
+msm_vfe7x.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/dream/camera/msm_vfe7x.c
+END
+msm_vfe8x.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/dream/camera/msm_vfe8x.c
+END
+mt9t013_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/dream/camera/mt9t013_reg.c
+END
+s5k3e2fx.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/dream/camera/s5k3e2fx.h
+END
+msm_vfe7x.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/dream/camera/msm_vfe7x.h
+END
+mt9p012.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/dream/camera/mt9p012.h
+END
+msm_vfe8x.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/dream/camera/msm_vfe8x.h
+END
+mt9t013.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/dream/camera/mt9t013.c
+END
+mt9t013.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/dream/camera/mt9t013.h
+END
+mt9p012_fox.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/dream/camera/mt9p012_fox.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/dream/camera/Makefile
+END

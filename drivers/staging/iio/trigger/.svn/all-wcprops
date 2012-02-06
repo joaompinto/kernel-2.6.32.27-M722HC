@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/iio/trigger
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/iio/trigger/Kconfig
+END
+iio-trig-gpio.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/iio/trigger/iio-trig-gpio.c
+END
+iio-trig-periodic-rtc.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/iio/trigger/iio-trig-periodic-rtc.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/iio/trigger/Makefile
+END

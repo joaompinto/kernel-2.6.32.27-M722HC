@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/otus/hal
+END
+hpani.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/otus/hal/hpani.c
+END
+hpfwu_FB50_mdk.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/otus/hal/hpfwu_FB50_mdk.c
+END
+hpani.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/otus/hal/hpani.h
+END
+hpfwspiu.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/otus/hal/hpfwspiu.c
+END
+hpreg.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/otus/hal/hpreg.c
+END
+hpDKfwu.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/otus/hal/hpDKfwu.c
+END
+hpreg.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/otus/hal/hpreg.h
+END
+hpmain.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/otus/hal/hpmain.c
+END
+hpfwuinit.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/otus/hal/hpfwuinit.c
+END
+hprw.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/otus/hal/hprw.c
+END
+hpfwu_txstream.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/otus/hal/hpfwu_txstream.c
+END
+hpusb.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/otus/hal/hpusb.c
+END
+hpfwu.c.drv_ba_resend
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/otus/hal/hpfwu.c.drv_ba_resend
+END
+hpfwu_2k.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/otus/hal/hpfwu_2k.c
+END
+hpusb.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/otus/hal/hpusb.h
+END
+hpfw2.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/otus/hal/hpfw2.c
+END
+hpfwu_OTUS_RC.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/otus/hal/hpfwu_OTUS_RC.c
+END
+otus.ini
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/otus/hal/otus.ini
+END
+hpfwu.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/otus/hal/hpfwu.c
+END
+hpfwu_BA.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/otus/hal/hpfwu_BA.c
+END
+hpfwbu.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/otus/hal/hpfwbu.c
+END

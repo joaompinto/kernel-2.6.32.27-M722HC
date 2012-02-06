@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/sep
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/sep/Kconfig
+END
+sep_driver_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/sep/sep_driver_api.h
+END
+sep_driver.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/sep/sep_driver.c
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/sep/TODO
+END
+sep_driver_hw_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/sep/sep_driver_hw_defs.h
+END
+sep_dev.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/sep/sep_dev.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/sep/Makefile
+END
+sep_driver_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/sep/sep_driver_config.h
+END

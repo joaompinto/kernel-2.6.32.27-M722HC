@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rt2870/common
+END
+spectrum.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rt2870/common/spectrum.c
+END
+cmm_sanity.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rt2870/common/cmm_sanity.c
+END
+cmm_data.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rt2870/common/cmm_data.c
+END
+rtmp_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rt2870/common/rtmp_init.c
+END
+cmm_sync.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rt2870/common/cmm_sync.c
+END
+rtmp_tkip.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rt2870/common/rtmp_tkip.c
+END
+rtusb_bulk.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rt2870/common/rtusb_bulk.c
+END
+dfs.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rt2870/common/dfs.c
+END
+action.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rt2870/common/action.c
+END
+ba_action.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rt2870/common/ba_action.c
+END
+action.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rt2870/common/action.h
+END
+cmm_wpa.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rt2870/common/cmm_wpa.c
+END
+2870_rtmp_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rt2870/common/2870_rtmp_init.c
+END
+cmm_data_2870.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rt2870/common/cmm_data_2870.c
+END
+md5.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rt2870/common/md5.c
+END
+rtusb_io.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rt2870/common/rtusb_io.c
+END
+eeprom.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rt2870/common/eeprom.c
+END
+cmm_info.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rt2870/common/cmm_info.c
+END
+rtusb_data.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rt2870/common/rtusb_data.c
+END
+mlme.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rt2870/common/mlme.c
+END
+rtmp_wep.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rt2870/common/rtmp_wep.c
+END

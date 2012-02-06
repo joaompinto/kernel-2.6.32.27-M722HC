@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rk2818/rk2818_dsp
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rk2818/rk2818_dsp/Kconfig
+END
+queue.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rk2818/rk2818_dsp/queue.h
+END
+rk2818_dsp.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rk2818/rk2818_dsp/rk2818_dsp.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rk2818/rk2818_dsp/Makefile
+END

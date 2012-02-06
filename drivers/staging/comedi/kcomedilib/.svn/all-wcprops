@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/comedi/kcomedilib
+END
+get.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/comedi/kcomedilib/get.c
+END
+kcomedilib_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/comedi/kcomedilib/kcomedilib_main.c
+END
+ksyms.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/comedi/kcomedilib/ksyms.c
+END
+data.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/comedi/kcomedilib/data.c
+END
+dio.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/comedi/kcomedilib/dio.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/comedi/kcomedilib/Makefile
+END

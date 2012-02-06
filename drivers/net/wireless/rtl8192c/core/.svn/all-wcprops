@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mid2918/!svn/ver/4483/gingerbread/kernel/trunk/drivers/net/wireless/rtl8192c_v322/core
+END
+rtw_cmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/mid2918/!svn/ver/4483/gingerbread/kernel/trunk/drivers/net/wireless/rtl8192c_v322/core/rtw_cmd.c
+END
+rtw_ieee80211.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/mid2918/!svn/ver/4483/gingerbread/kernel/trunk/drivers/net/wireless/rtl8192c_v322/core/rtw_ieee80211.c
+END
+rtw_mp_ioctl.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/mid2918/!svn/ver/4483/gingerbread/kernel/trunk/drivers/net/wireless/rtl8192c_v322/core/rtw_mp_ioctl.c
+END
+rtw_security.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/mid2918/!svn/ver/4483/gingerbread/kernel/trunk/drivers/net/wireless/rtl8192c_v322/core/rtw_security.c
+END
+rtw_rf.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/mid2918/!svn/ver/4483/gingerbread/kernel/trunk/drivers/net/wireless/rtl8192c_v322/core/rtw_rf.c
+END
+rtw_io.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/mid2918/!svn/ver/4483/gingerbread/kernel/trunk/drivers/net/wireless/rtl8192c_v322/core/rtw_io.c
+END
+rtw_mlme_ext.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/mid2918/!svn/ver/4483/gingerbread/kernel/trunk/drivers/net/wireless/rtl8192c_v322/core/rtw_mlme_ext.c
+END
+rtw_mp.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/mid2918/!svn/ver/4483/gingerbread/kernel/trunk/drivers/net/wireless/rtl8192c_v322/core/rtw_mp.c
+END
+rtw_xmit.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/mid2918/!svn/ver/4483/gingerbread/kernel/trunk/drivers/net/wireless/rtl8192c_v322/core/rtw_xmit.c
+END
+rtw_debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/mid2918/!svn/ver/4483/gingerbread/kernel/trunk/drivers/net/wireless/rtl8192c_v322/core/rtw_debug.c
+END
+rtw_eeprom.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/mid2918/!svn/ver/4483/gingerbread/kernel/trunk/drivers/net/wireless/rtl8192c_v322/core/rtw_eeprom.c
+END
+rtw_intel_widi.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/mid2918/!svn/ver/4483/gingerbread/kernel/trunk/drivers/net/wireless/rtl8192c_v322/core/rtw_intel_widi.c
+END
+rtw_mlme.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/mid2918/!svn/ver/4483/gingerbread/kernel/trunk/drivers/net/wireless/rtl8192c_v322/core/rtw_mlme.c
+END
+rtw_ioctl_rtl.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/mid2918/!svn/ver/4483/gingerbread/kernel/trunk/drivers/net/wireless/rtl8192c_v322/core/rtw_ioctl_rtl.c
+END
+rtw_ioctl_set.uu
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/mid2918/!svn/ver/4483/gingerbread/kernel/trunk/drivers/net/wireless/rtl8192c_v322/core/rtw_ioctl_set.uu
+END
+rtw_pwrctrl.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/mid2918/!svn/ver/4483/gingerbread/kernel/trunk/drivers/net/wireless/rtl8192c_v322/core/rtw_pwrctrl.c
+END
+rtw_sta_mgt.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/mid2918/!svn/ver/4483/gingerbread/kernel/trunk/drivers/net/wireless/rtl8192c_v322/core/rtw_sta_mgt.c
+END
+rtw_wlan_util.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/mid2918/!svn/ver/4483/gingerbread/kernel/trunk/drivers/net/wireless/rtl8192c_v322/core/rtw_wlan_util.c
+END
+rtw_ioctl_query.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/mid2918/!svn/ver/4483/gingerbread/kernel/trunk/drivers/net/wireless/rtl8192c_v322/core/rtw_ioctl_query.c
+END
+rtw_recv.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/mid2918/!svn/ver/4483/gingerbread/kernel/trunk/drivers/net/wireless/rtl8192c_v322/core/rtw_recv.c
+END
+rtw_p2p.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/mid2918/!svn/ver/4483/gingerbread/kernel/trunk/drivers/net/wireless/rtl8192c_v322/core/rtw_p2p.c
+END

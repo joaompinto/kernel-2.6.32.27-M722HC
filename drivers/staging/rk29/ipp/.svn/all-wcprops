@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rk29/ipp
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rk29/ipp/Kconfig
+END
+rk29-ipp.uu
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rk29/ipp/rk29-ipp.uu
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/rk29/ipp/Makefile
+END

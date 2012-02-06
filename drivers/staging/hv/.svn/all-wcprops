@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/hv
+END
+Connection.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/hv/Connection.c
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/hv/Kconfig
+END
+NetVscApi.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/hv/NetVscApi.h
+END
+vmbus.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/hv/vmbus.h
+END
+VmbusPacketFormat.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/hv/VmbusPacketFormat.h
+END
+ChannelMgmt.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/hv/ChannelMgmt.h
+END
+NetVsc.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/hv/NetVsc.c
+END
+StorVsc.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/hv/StorVsc.c
+END
+VersionInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/hv/VersionInfo.h
+END
+NetVsc.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/hv/NetVsc.h
+END
+vmbus_drv.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/hv/vmbus_drv.c
+END
+netvsc_drv.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/hv/netvsc_drv.c
+END
+Hv.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/hv/Hv.c
+END
+storvsc_drv.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/hv/storvsc_drv.c
+END
+Hv.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/hv/Hv.h
+END
+rndis.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/hv/rndis.h
+END
+BlkVsc.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/hv/BlkVsc.c
+END
+RingBuffer.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/hv/RingBuffer.c
+END
+ChannelInterface.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/hv/ChannelInterface.c
+END
+VmbusApi.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/hv/VmbusApi.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/hv/Makefile
+END
+Vmbus.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/hv/Vmbus.c
+END
+VmbusPrivate.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/hv/VmbusPrivate.h
+END
+ChannelInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/hv/ChannelInterface.h
+END
+RingBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/hv/RingBuffer.h
+END
+vstorage.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/hv/vstorage.h
+END
+blkvsc_drv.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/hv/blkvsc_drv.c
+END
+StorVscApi.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/hv/StorVscApi.h
+END
+Channel.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/hv/Channel.c
+END
+VmbusChannelInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/hv/VmbusChannelInterface.h
+END
+hv_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/hv/hv_api.h
+END
+Channel.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/hv/Channel.h
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/hv/TODO
+END
+RndisFilter.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/hv/RndisFilter.c
+END
+osd.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/hv/osd.c
+END
+RndisFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/hv/RndisFilter.h
+END
+osd.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/hv/osd.h
+END
+logging.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/hv/logging.h
+END
+ChannelMgmt.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mid2918/!svn/ver/125/gingerbread/kernel/trunk/drivers/staging/hv/ChannelMgmt.c
+END
