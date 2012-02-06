@@ -49,6 +49,16 @@ struct platform_device rk29_device_adc = {
 
 #endif
 
+#ifdef CONFIG_BATTERY_RK2918
+struct platform_device rk2918_device_battery = {
+                .name   = "rk2918-battery",
+                .id     = -1,
+                .dev = {
+                        .platform_data = &rk2918_battery_platdata,
+                },
+};
+#endif
+
 #ifdef CONFIG_RK29_VMAC
 static u64 eth_dmamask = DMA_BIT_MASK(32);
 static struct resource rk29_vmac_resource[] = {

@@ -34,3 +34,5 @@ obj-$(CONFIG_BATTERY_RK2818)	+= rk2818_battery.o
 obj-$(CONFIG_BATTERY_STC3100)	+= stc3100_battery.o
 obj-$(CONFIG_BATTERY_BQ27510)	+= bq27510_battery.o
 obj-$(CONFIG_BATTERY_BQ3060)   += bq3060_battery.o
+obj-$(CONFIG_BATTERY_RK2918)    += rk2918_battery.o
+

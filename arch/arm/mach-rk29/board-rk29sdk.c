@@ -950,6 +950,18 @@ static struct i2c_board_info __initdata board_i2c3_devices[] = {
 
 #endif
 
+#ifdef CONFIG_BATTERY_RK2918
+struct rk2918_battery_platform_data rk2918_battery_platdata = {
+        .dc_det_pin      = RK29_PIN4_PA1,
+        .batt_low_pin    = INVALID_GPIO,
+        .charge_set_pin  = INVALID_GPIO,
+        .charge_ok_pin   = RK29_PIN4_PA3,
+
+        .dc_det_level    = GPIO_LOW,
+        .charge_ok_level = GPIO_HIGH,
+};
+#endif
+
 /*****************************************************************************************
  * camera  devices
  * author: ddl@rock-chips.com

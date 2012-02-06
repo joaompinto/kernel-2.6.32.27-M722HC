@@ -1,2 +1,6 @@
 Initial code released by the spanish vendor BQ:
 http://www.mibqyyo.com/2012/02/01/cdigo-gpl-de-los-tablets-bq/
+
+Initial .config from android_kernel_andypad
+Adjusted touch and screen config
+Added adc_battery_patch found on the italian forum

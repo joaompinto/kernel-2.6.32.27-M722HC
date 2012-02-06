@@ -206,6 +206,23 @@ struct akm8975_platform_data {
 	int gpio_DRDY;
 };
 
+/**battery*/
+struct rk2918_battery_platform_data {
+        int (*io_init)(void);
+        int (*io_deinit)(void);
+
+    int dc_det_pin;
+    int batt_low_pin;
+        int charge_ok_pin;
+    int charge_set_pin;
+
+        int dc_det_level;
+    int batt_low_level;
+    int charge_ok_level;
+    int charge_set_level;
+};
+
+
 struct adc_battery_platform_data {
 	int adc_chn;
 
