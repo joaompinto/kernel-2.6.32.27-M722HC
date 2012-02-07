@@ -32,7 +32,7 @@
 #include <linux/delay.h>
 #include <linux/ktime.h>
 
-#if 0
+#if 1
 #define DBG(x...)   printk(x)
 #else
 #define DBG(x...)
@@ -42,7 +42,7 @@
 #define RK29_USB_CHARGE_SUPPORT
 #endif
 
-int rk29_battery_dbg_level = 0;
+int rk29_battery_dbg_level = 1;
 
 /*******************以下参数可以修改******************************/
 #define	TIMER_MS_COUNTS		            50	//定时器的长度ms
@@ -919,6 +919,7 @@ static int rk2918_battery_probe(struct platform_device *pdev)
 	struct rk2918_battery_platform_data *pdata = pdev->dev.platform_data;
 	int irq_flag;
 	
+	printk("rk2918_battery_probe\n");
 	data = kzalloc(sizeof(*data), GFP_KERNEL);
 	if (data == NULL) {
 		ret = -ENOMEM;
@@ -1127,13 +1128,14 @@ static struct platform_driver rk2918_battery_driver = {
 	.suspend	= rk2918_battery_suspend,
 	.resume		= rk2918_battery_resume,
 	.driver = {
-		.name = "rk2918-battery",
+		.name = "rk2918_battery",
 		.owner	= THIS_MODULE,
 	}
 };
 
 static int __init rk2918_battery_init(void)
 {
+	printk("rk2918_battery_init\n");
 	return platform_driver_register(&rk2918_battery_driver);
 }
 

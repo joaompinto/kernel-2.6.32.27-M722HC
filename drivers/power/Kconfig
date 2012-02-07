@@ -163,4 +163,10 @@ config BATTERY_RK2918
         help
           Say Y to enable support for the battery on the RK2918.
 
+config BATTERY_RK2918_NEW
+        tristate "RK2918 battery"
+        depends on ADC_RK29
+        help
+          Say Y to enable support for the battery on the RK2918.
+
 endif # POWER_SUPPLY
