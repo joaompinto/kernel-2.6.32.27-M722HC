@@ -1490,28 +1490,6 @@ static struct platform_device rk29_device_pwm_regulator = {
 
 #endif
 
-#if defined( CONFIG_BATTERY_RK29_ADC) || defined(CONFIG_BATTERY_RK2918_NEW)
-static struct adc_battery_platform_data rk29_battery_data = {
-	.adc_chn = 0,
-	.dc_det_gpio = GPIO_DC_DET,
-	.chg_ok_gpio = GPIO_CHG_OK,
-
-	.batt_low_gpio    = INVALID_GPIO,
-	.charge_set_gpio  = INVALID_GPIO,
-	
-	.dc_det_level    = GPIO_HIGH,
-	.chg_ok_level = GPIO_HIGH,
-};
-
-struct platform_device rk29_device_battery = {
-		.name	= "rk29_battery",
-		.id 	= -1,
-		.dev = {
-			.platform_data = &rk29_battery_data,
-		}
-};
-#endif
-
 #ifdef CONFIG_GPIO_VIBRATE
 static int rk29_vibrator_init()
 {
@@ -1969,8 +1947,8 @@ static struct platform_device *devices[] __initdata = {
 #ifdef CONFIG_UART3_RK29
 	&rk29_device_uart3,
 #endif
-#if defined( CONFIG_BATTERY_RK29_ADC) || defined(CONFIG_BATTERY_RK2918_NEW)
-	&rk29_device_battery,
+#ifdef CONFIG_BATTERY_RK2918)
+	&rk2918_device_battery,
 #endif
 
 #ifdef CONFIG_RK29_PWM_REGULATOR
