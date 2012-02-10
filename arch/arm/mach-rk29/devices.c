@@ -51,7 +51,7 @@ struct platform_device rk29_device_adc = {
 
 #ifdef CONFIG_BATTERY_RK2918
 struct platform_device rk2918_device_battery = {
-                .name   = "rk2918-battery",
+                .name   = "rk2918_battery",
                 .id     = -1,
                 .dev = {
                         .platform_data = &rk2918_battery_platdata,

@@ -44,35 +44,8 @@
 
 int rk29_battery_dbg_level = 1;
 
-/*******************以下参数可以修改******************************/
-#define	TIMER_MS_COUNTS		            50	//定时器的长度ms
-
-#define	SLOPE_SECOND_COUNTS	            15	//统计电压斜率的时间间隔s
-#define	DISCHARGE_MIN_SECOND	        45	//最短放电电1%时间
-#define	CHARGE_MIN_SECOND	            45	//最短充电电1%时间
-#define	CHARGE_MID_SECOND	            90	//最短充电电1%时间
-#define	CHARGE_MAX_SECOND	            250	//最长充电电1%时间
-#define CHARGE_FULL_DELAY_TIMES         10  //充电满检测防抖时间
-#define USBCHARGE_IDENTIFY_TIMES        5   //插入USB混流，pc识别检测时间
-
-#define	NUM_VOLTAGE_SAMPLE	            ((SLOPE_SECOND_COUNTS * 1000) / TIMER_MS_COUNTS)	//存储的采样点个数
-#define	NUM_DISCHARGE_MIN_SAMPLE	    ((DISCHARGE_MIN_SECOND * 1000) / TIMER_MS_COUNTS)	//存储的采样点个数
-#define	NUM_CHARGE_MIN_SAMPLE	        ((CHARGE_MIN_SECOND * 1000) / TIMER_MS_COUNTS)	    //存储的采样点个数
-#define	NUM_CHARGE_MID_SAMPLE	        ((CHARGE_MID_SECOND * 1000) / TIMER_MS_COUNTS)	    //存储的采样点个数
-#define	NUM_CHARGE_MAX_SAMPLE	        ((CHARGE_MAX_SECOND * 1000) / TIMER_MS_COUNTS)	    //存储的采样点个数
-#define NUM_CHARGE_FULL_DELAY_TIMES     ((CHARGE_FULL_DELAY_TIMES * 1000) / TIMER_MS_COUNTS)	//充电满状态持续时间长度
-#define NUM_USBCHARGE_IDENTIFY_TIMES    ((USBCHARGE_IDENTIFY_TIMES * 1000) / TIMER_MS_COUNTS)	//充电满状态持续时间长度
-
-#define BAT_2V5_VALUE	        2500
-#define BATT_MAX_VOL_VALUE	    4180	//满电时的电池电压	 FOR A7
-#define	BATT_ZERO_VOL_VALUE     3500	//关机时的电池电压
-#define BATT_NOMAL_VOL_VALUE    3800
-
-//定义ADC采样分压电阻，以实际值为准，单位K
-#define BAT_PULL_UP_R           200
-#define BAT_PULL_DOWN_R         200
-
 #define BAT_ADC_TABLE_LEN       11
+#define CONFIG_MACH_RK29_ACH8
 static int adc_raw_table_bat[BAT_ADC_TABLE_LEN] = 
 {
 #if defined(CONFIG_MACH_RK29_ACH7)

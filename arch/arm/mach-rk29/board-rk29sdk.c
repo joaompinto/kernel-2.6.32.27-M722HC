@@ -957,7 +957,7 @@ struct rk2918_battery_platform_data rk2918_battery_platdata = {
         .charge_set_pin  = INVALID_GPIO,
         .charge_ok_pin   = RK29_PIN4_PA3,
 
-        .dc_det_level    = GPIO_LOW,
+        .dc_det_level    = GPIO_HIGH,
         .charge_ok_level = GPIO_HIGH,
 };
 #endif
