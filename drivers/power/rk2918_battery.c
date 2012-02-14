@@ -45,7 +45,7 @@
 int rk29_battery_dbg_level = 1;
 
 #define BAT_ADC_TABLE_LEN       11
-#define CONFIG_MACH_RK29_ACH8
+
 static int adc_raw_table_bat[BAT_ADC_TABLE_LEN] = 
 {
 #if defined(CONFIG_MACH_RK29_ACH7)
@@ -53,7 +53,7 @@ static int adc_raw_table_bat[BAT_ADC_TABLE_LEN] =
 #elif defined(CONFIG_MACH_RK29_ACH8)
     3530, 3597, 3628, 3641, 3660, 3697, 3747, 3809, 3879, 3945, 4050
 #else
-    3500, 3579, 3649, 3676, 3694, 3731, 3789, 3856, 3927, 4007, 4150
+    3500, 3579, 3649, 3676, 3694, 3731, 3789, 3856, 3927, 4007, 4190
 #endif
 };
 
@@ -188,6 +188,7 @@ static int rk2918_battery_load_capacity(void)
         mdelay(1);
     }
     tmp = tmp / 20;
+    printk("rk2918_battery_load_capacity: average adc_sync_read= %d\n", tmp);
     tmp = (tmp * BAT_2V5_VALUE * (BAT_PULL_UP_R + BAT_PULL_DOWN_R)) / (1024 * BAT_PULL_DOWN_R);
     truecapacity = rk2918_get_bat_capacity_raw(tmp);
     
@@ -412,6 +413,7 @@ static int rk2918_battery_resume_get_Capacity(int deltatime)
     }
     tmp = tmp / 20;
     tmp = (tmp * BAT_2V5_VALUE * (BAT_PULL_UP_R + BAT_PULL_DOWN_R)) / (1024 * BAT_PULL_DOWN_R);
+    printk("rk2918_battery_resume_get_Capacity: average adc_sync_read= %d\n", tmp);
     capacity = rk2918_get_bat_capacity_raw(tmp);
     
     if (gBatChargeStatus == 1)
@@ -567,6 +569,7 @@ static void rk2918_get_bat_voltage(struct rk2918_battery_data *bat)
 	    value += gBatVoltageSamples[i];
 	}
 	gBatVoltage = value / num;
+	
 	//gBatVoltage = (value * BAT_2V5_VALUE * 2) / 1024;
 	
 	/*Ïû³ýÃ«´ÌµçÑ¹*/
