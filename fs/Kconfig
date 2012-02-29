@@ -6,6 +6,7 @@ menu "File systems"
 
 if BLOCK
 
+source "fs/slow-work/Kconfig"
 source "fs/ext2/Kconfig"
 source "fs/ext3/Kconfig"
 source "fs/ext4/Kconfig"

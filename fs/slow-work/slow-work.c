@@ -670,7 +670,7 @@ EXPORT_SYMBOL(delayed_slow_work_enqueue);
 static void slow_work_schedule_cull(void)
 {
 	mod_timer(&slow_work_cull_timer,
-		  round_jiffies(jiffies + SLOW_WORK_CULL_TIMEOUT));
+		  jiffies + SLOW_WORK_CULL_TIMEOUT);
 }
 
 /*
@@ -811,7 +811,7 @@ static void slow_work_new_thread_execute(struct slow_work *work)
 		if (atomic_dec_and_test(&slow_work_thread_count))
 			BUG(); /* we're running on a slow work thread... */
 		mod_timer(&slow_work_oom_timer,
-			  round_jiffies(jiffies + SLOW_WORK_OOM_TIMEOUT));
+			  jiffies + SLOW_WORK_OOM_TIMEOUT);
 	} else {
 		/* ratelimit the starting of new threads */
 		mod_timer(&slow_work_oom_timer, jiffies + 1);

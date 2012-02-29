@@ -127,3 +127,7 @@ obj-$(CONFIG_EXOFS_FS)          += exofs/
 
 # Patched by YAFFS
 obj-$(CONFIG_YAFFS_FS)		+= yaffs2/
+
+# for CIFS support
+obj-$(CONFIG_SLOW_WORK) 	+= slow-work/
+

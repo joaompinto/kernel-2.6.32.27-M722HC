@@ -1,0 +1,21 @@
+config SLOW_WORK
+        tristate "Slow work"
+        help
+          The slow work thread pool provides a number of dynamically allocated
+          threads that can be used by the kernel to perform operations that
+          take a relatively long time.
+
+          An example of this would be CacheFiles doing a path lookup followed
+          by a series of mkdirs and a create call, all of which have to touch
+          disk.
+
+          See Documentation/slow-work.txt.
+
+config SLOW_WORK_DEBUG
+        bool "Slow work debugging through debugfs"
+        default n
+        depends on SLOW_WORK && DEBUG_FS
+        help
+          Display the contents of the slow work run queue through debugfs,
+          including items currently executing.
+
